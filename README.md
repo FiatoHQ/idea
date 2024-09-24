@@ -1,5 +1,6 @@
-![Landing page - hero section image](https://iili.io/dsOXsoX.jpg)
-**What Fiato Offers: Simplifying Global Finance**
+![Landing page - hero section image](https://iili.io/dsD3reS.jpg)
+
+### What Fiato Offers: Simplifying Global Finance
 
 Fiato is designed to bridge the gap between traditional banking and blockchain technology, providing users with a platform to manage and move money effortlessly across the globe. With Fiato, you can send, receive, and store digital versions of real-world currencies (like USD, EUR, GBP, etc) as stablecoins, alongside mainstream cryptocurrencies like Bitcoin, Ethereum and Aptos.
 
@@ -10,20 +11,17 @@ We’re leveraging Aptos’ innovative **Keyless** feature to simplify the signu
 1.  **All Currencies in One Place**  
     Manage both fiat currencies and cryptocurrencies in a single platform. Users can store stablecoin versions of traditional currencies (e.g., USDT, EURT, GBPT) in a digital wallet. This means you can handle your USD, Euro, and other major currencies on the blockchain with ease.
     
-    ![currencies-screens](https://iili.io/dsOjkYv.jpg)
-    
 2.  **Virtual Cards for Seamless Payments**  
     With Fiato, users can create virtual cards to make online purchases, subscribe to services, or shop in stores. You can also use the **NFC tap-to-pay** feature, allowing for contactless in-store payments using your device.
 
-![Virtual-Cards](https://iili.io/dsOe59j.jpg)
+![currencies-screens](https://iili.io/dsD3g72.jpg)
+![Virtual-Cards](https://iili.io/dsD3trx.jpg)
     
 3.  **Easy Transfers to Traditional Banks**  
     Fiato eliminates the complexity of peer-to-peer (P2P) crypto trading when sending money to traditional banks. Users can transfer money directly from their Fiato wallet to bank accounts in fiat currency (e.g., USD) or stablecoins (e.g., USDT) without needing to go through third-party services.    
 
 4.  **Unique Tag for Transactions**  
     Users can purchase a unique tag name that serves as their identity within Fiato. This makes receiving payments from other Fiato users simple—just share your tag instead of long wallet addresses.
-
-![Send-Money](https://iili.io/dsO8wDx.jpg)
     
 5.  **Secure & Global Transactions**  
     With Fiato’s use of blockchain technology, transactions are highly secure, transparent, and fast. Whether you’re paying someone next door or halfway across the globe, Fiato ensures that payments are quick and reliable.
@@ -31,7 +29,8 @@ We’re leveraging Aptos’ innovative **Keyless** feature to simplify the signu
 6. **Currency Conversion**
 Fiato offers a seamless way to convert currencies to your preferred option, enabling users to handle local transactions or payments with ease, no matter where they are. Whether you're in need of local currency for daily expenses or international funds for a business deal, Fiato's built-in conversion tools make the process quick and easy.
 
-![Conversion](https://iili.io/dsO46nj.jpg)
+![Send-Money](https://iili.io/dsD3bdQ.jpg)
+![Conversion](https://iili.io/dsD3Udl.jpg)
     
 ----------
 
@@ -45,8 +44,6 @@ Fiato offers a seamless way to convert currencies to your preferred option, enab
     
 3.  **Financial Inclusion**  
     Fiato opens up access to global finance for unbanked populations. By only requiring internet access, users can store and transfer money in stablecoin forms of their local currencies, even if they don’t have a traditional bank account.
-    
-    ![Receive-Money](https://iili.io/dsOsS0x.jpg)
 
 ----------
 
@@ -64,7 +61,7 @@ Fiato offers a seamless way to convert currencies to your preferred option, enab
 4.  **Tourism & Travel**  
     Travelers can use Fiato to store local currencies in stablecoin form, eliminating the need for currency exchange. When traveling abroad, they can use the NFC tap-to-pay feature to make secure in-store payments in the local currency.
     
-
+![Receive-Money](https://iili.io/dsD34m7.jpg)
 ----------
 
 ### Facilitating Global Finance:
